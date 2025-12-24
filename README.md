@@ -1,4 +1,8 @@
 # CampusGo
+## 🚀 Live Demo
+
+🔗 https://campus-go-two.vercel.app
+
 
 CampusGo is a platform for university club management and student engagement. It aims to facilitate the organization and participation in various clubs and activities on campus. The application provides features for managing club details, events, and student registrations, along with payment processing integrated through Razorpay.
 
